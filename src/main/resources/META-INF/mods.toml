@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[61,)"
+license="All Rights Reserved"
+[[mods]]
+modId="villagerstaff"
+version="0.3.1"
+displayName="Villager Staff"
+authors="Tim and friends"
+description='''A legendary villager staff that calls down a celestial beam.'''
+[[dependencies.villagerstaff]]
+modId="forge"
+mandatory=true
+versionRange="[61.2.0,62)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.villagerstaff]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.21.11]"
+ordering="NONE"
+side="BOTH"
+
+
+
