@@ -1,5 +1,13 @@
 {
   "message.villagerstaff.aim": "Наведите посох на блок в пределах 48 блоков",
   "item.villagerstaff.villager_staff": "Посох жителя",
-  "item.villagerstaff.kings_crown": "Корона короля"
+  "item.villagerstaff.kings_crown": "Корона короля",
+  "item.villagerstaff.kings_sword": "Меч короля",
+  "effect.villagerstaff.kings_target": "Цель короля",
+  "message.villagerstaff.sword_cooldown": "Способность готова через %s сек.",
+  "message.villagerstaff.no_target": "Нет активной цели в этом измерении рядом с загруженными чанками",
+  "message.villagerstaff.no_safe_spot": "Рядом с целью нет свободного места для телепортации",
+  "message.villagerstaff.aim_target": "Наведитесь на противника в пределах 32 блоков",
+  "message.villagerstaff.mark_failed": "Не удалось наложить метку",
+  "message.villagerstaff.marked": "Цель короля: +20% урона на 40 секунд"
 }

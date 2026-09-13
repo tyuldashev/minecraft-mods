@@ -1,5 +1,13 @@
 {
   "message.villagerstaff.aim": "Aim at a block within 48 blocks",
   "item.villagerstaff.villager_staff": "Villager Staff",
-  "item.villagerstaff.kings_crown": "King's Crown"
+  "item.villagerstaff.kings_crown": "King's Crown",
+  "item.villagerstaff.kings_sword": "King's Sword",
+  "effect.villagerstaff.kings_target": "King's Target",
+  "message.villagerstaff.sword_cooldown": "Ability ready in %s seconds",
+  "message.villagerstaff.no_target": "No active loaded target in this dimension",
+  "message.villagerstaff.no_safe_spot": "No safe teleport location next to the target",
+  "message.villagerstaff.aim_target": "Aim at an enemy within 32 blocks",
+  "message.villagerstaff.mark_failed": "Could not apply the mark",
+  "message.villagerstaff.marked": "King's Target: +20% damage for 40 seconds"
 }

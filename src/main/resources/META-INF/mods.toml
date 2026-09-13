@@ -3,7 +3,7 @@ loaderVersion="[61,)"
 license="All Rights Reserved"
 [[mods]]
 modId="villagerstaff"
-version="0.3.1"
+version="0.4.0"
 displayName="Villager Staff"
 authors="Tim and friends"
 description='''A legendary villager staff that calls down a celestial beam.'''
@@ -19,6 +19,7 @@ mandatory=true
 versionRange="[1.21.11]"
 ordering="NONE"
 side="BOTH"
+
 
 
 

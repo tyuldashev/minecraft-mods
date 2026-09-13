@@ -9,7 +9,7 @@ plugins {
     id 'net.minecraftforge.gradle' version '[7.0.3,8)'
 }
 
-version = '0.3.1'
+version = '0.4.0'
 group = 'dev.tim.villagerstaff'
 
 // Mojang ships Java 21 to end users in 1.20.5+, so your mod should target Java 21.
@@ -62,6 +62,7 @@ tasks.withType(JavaCompile).configureEach {
     // This is done by default in Java 18+, but this ensures it no matter the Java or Gradle version
     options.encoding = 'UTF-8'
 }
+
 
 
 
